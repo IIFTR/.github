@@ -1,4 +1,7 @@
-This organization ia basically formed becuase we want our own technology . In short we want technical independence.The mission is make india tech independent.Work together ,Star united and we will definitely do that one day.
+#IIFTR-(Indian Inventors for Future Technology and Research)
+
+
+### Mission - This organization ia basically formed becuase we want our own technology . In short we want technical independence.The mission is make india tech independent.Work together ,Star united and we will definitely do that one day.
 
 
 Today the science which we are using is also harmful for our nature .This organisation is fully based on technical research which is good for our nature .Nature is our mother we have to save it.
