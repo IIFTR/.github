@@ -8,6 +8,8 @@
 Trying to see that how transistor really work when it connected to the circuit
 
 ![Circuit Diagram](IMG_20260416_144157.jpg)
+<img src="IMG_20260416_144157.jpg" width="400">
+
 ![Circuit 2](IMG_20260416_144203.jpg)
 
 
